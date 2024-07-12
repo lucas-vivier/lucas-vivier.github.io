@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF copy of my CV [here](http://lucasvivier.github.io/files/cv_lv_11072024.pdf).
+You can download a PDF copy of my CV [here](http://lucas-vivier.github.io/files/cv_lv_11072024.pdf).
 
 Education
 ======
