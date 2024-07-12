@@ -9,48 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a PDF copy of my CV [here](http://lucasvivier.github.io/files/cv_lv_11072024.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Economics, Ecole des Ponts ParisTech, 2024 (expected)
+* MSc in Engineering, Ecole CentraleSupelec, Paris Saclay University, 2018
+* MSc in Energy Economics, Paris Saclay University, 2018
+  * Master Thesis on Energy System Optimization Models.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb. 2021 - June 2024: PhD Candidate, CIRED, ENPC. _Paris area, France_
+  * Title: Assessing residential energy efficiency policies subject to multiple market and behavioral frictions
+  * Supervisor: Louis-Gaëtan Giraudet & Laurent Lamy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2023 - Aug. 2023: Research Fellow, IIASA. _Vienna, Austria_
+  * Title: Meeting climate target with realistic demand-side policies in the residential sector in the EU-27 
+  * Supervisor: Alessio Mastrucci
+  * _Levien Award for outstanding early-career scientists part of the 2023 YSSP_
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Oct. 2019 - Jan. 2021: Energy Market Analyst, CVE NA Inc. _New York, USA_
+  * International volunteering program
+
+* May 2018 - Oct. 2019: Energy Market Analyst, EDF. _Paris area, France_
+  * Short and medium-term energy price forecasting models and financial risk hedging.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -59,6 +47,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
