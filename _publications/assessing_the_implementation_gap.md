@@ -1,10 +1,10 @@
 ---
 title: "Energy efficiency policy in an n-th best world: Assessing the implementation gap"
 collection: publications
-#permalink: /publication/2009-10-01-paper-title-number-1
+# permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Last version available upon request'
 date: 2024-07-11
-venue: 'Working paper'
+venue: 'Working Paper'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://hal.science/hal-04510798'
 citation: 'Vivier, L. and Giraudet, L.-G. Energy efficiency policy in an n-th best world: Assessing the implementation gap. Working paper, 2024.'

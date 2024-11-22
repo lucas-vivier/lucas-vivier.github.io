@@ -1,10 +1,10 @@
 ---
 title: "Meeting climate target with realistic demand-side policies in the residential sector in the EU-27"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+# permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Previous version of this paper received the IIASA Levien Award. Available upon request.'
 date: 2024-07-11
-venue: 'Working paper'
+venue: 'Under Review'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Vivier, L. and Mastrucci, A. Meeting climate target with realistic demand- side policies in the residential sector in the EU-27. In submission.'

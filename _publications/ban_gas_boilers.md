@@ -1,7 +1,7 @@
 ---
 title: "Banning new gas boilers as a no-regret mitigation option"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+# permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Equal contribution as co-first author with Célia Escribe'
 date: 2024-07-11
 venue: 'Accepted in Nature Communications'
