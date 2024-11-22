@@ -13,14 +13,17 @@ You can download a PDF copy of my CV [here](http://lucas-vivier.github.io/files/
 
 Education
 ======
-* PhD in Economics, Ecole des Ponts ParisTech, 2024 (expected)
+* PhD in Economics, Ecole des Ponts ParisTech, 2024
 * MSc in Engineering, Ecole CentraleSupelec, Paris Saclay University, 2018
 * MSc in Energy Economics, Paris Saclay University, 2018
   * Master Thesis on Energy System Optimization Models.
 
 Work experience
 ======
-* Feb. 2021 - June 2024: PhD Candidate, CIRED, ENPC. _Paris area, France_
+* October 2024: Consultant, World Bank. _Paris, France_
+  * Integrating climate resilience in energy planning
+
+* Feb. 2021 - September 2024: PhD Candidate, CIRED, ENPC. _Paris area, France_
   * Title: Assessing residential energy efficiency policies subject to multiple market and behavioral frictions
   * Supervisor: Louis-Gaëtan Giraudet & Laurent Lamy
 

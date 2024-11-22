@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at Écoles des Ponts ParisTech, France within CIRED research units. I have 6 years experiences in the Energy sector both in academia and industry.
-
+I am a PhD scholar in Economics specializing in the energy sector, currently working as a consultant for the World Bank. I bring +6 years of experience in the energy sector, spanning both academia and industry.
 My research focuses on Energy Efficiency Economics. 
 * I assess demand-side policies when accounting for multiple market and behavioral frictions.
 * I develop innovative bottom-up modeling framworks to assess policies in the energy sector. Code are released open-source and available on my [GitHub page](https://github.com/lucas-vivier).
